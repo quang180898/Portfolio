@@ -82,8 +82,8 @@ export const About = () => {
                                 <div className="rb-right">
                                     <h6>Front-end IOS Developer</h6>
                                     <label>
-                                        2359 Media | On-site | July 2020 - Oct
-                                        2020
+                                        2359 Media | On-site | Jan 2021 - Mar
+                                        2021
                                     </label>
                                     <div className="rb-time">Intern</div>
                                     <p>
@@ -105,7 +105,7 @@ export const About = () => {
                                     <h6>Front-end ReactJS Developer</h6>
                                     <label>
                                         Minerva Technology Solutions | On-site |
-                                        Jan 2021 - Dec 2021
+                                        May 2021 - July 2022
                                     </label>
                                     <div className="rb-time">Full Time</div>
                                     <p>
