@@ -1,6 +1,7 @@
 import React from "react";
 import avatar from "../images/avatar_cropped.png";
 import { TypeAnimation } from "react-type-animation";
+import CV from "../images/ReactJs_NguyenDangQuang_CV.pdf"
 
 export const Home = () => {
     return (
@@ -35,7 +36,7 @@ export const Home = () => {
                                 <div className="btn-bar">
                                     <a
                                         className="px-btn px-btn-theme"
-                                        href="/#"
+                                        href={CV}
                                     >
                                         Donwload CV
                                     </a>
