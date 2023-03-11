@@ -25,7 +25,7 @@ export const Contact = () => {
                         </li>
                         <li className="media">
                             <i className="ti-email"></i>
-                            <span className="media-body">danquang.180898@gmail.com</span>
+                            <span className="media-body">dangquang.180898@gmail.com</span>
                         </li>
                         <li className="media">
                             <i className="ti-mobile"></i>

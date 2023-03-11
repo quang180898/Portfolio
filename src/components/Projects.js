@@ -21,7 +21,7 @@ export const Projects = () => {
                         </div>
                         <div className="blog-info">
                             <h6>
-                                <a href="https://github.com/quang180898/TongHop_Frontend/tree/quang_dev">Web store shoes</a>
+                                <a href="https://github.com/quang180898/TongHop_Frontend/tree/quang_dev">Shoes store</a>
                             </h6>
                         </div>
                     </div>
