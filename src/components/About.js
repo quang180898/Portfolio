@@ -33,7 +33,7 @@ export const About = () => {
                     <div className="col-lg-4 m-15px-tb">
                         <ul className="aducation-box">
                             <li>
-                                <span>2016-2020</span>
+                                {/* <span>2016-2020</span> */}
                                 <h6>Hutech University of Technology</h6>
                                 <p>Software Technology</p>
                             </li>
@@ -82,8 +82,7 @@ export const About = () => {
                                 <div className="rb-right">
                                     <h6>Front-end IOS Developer</h6>
                                     <label>
-                                        2359 Media | On-site | Jan 2021 - Mar
-                                        2021
+                                        2359 Media | On-site
                                     </label>
                                     <div className="rb-time">Intern</div>
                                     <p>
@@ -105,7 +104,7 @@ export const About = () => {
                                     <h6>Front-end ReactJS Developer</h6>
                                     <label>
                                         Minerva Technology Solutions | On-site |
-                                        May 2021 - July 2022
+                                        Jan 2022 - Present
                                     </label>
                                     <div className="rb-time">Full Time</div>
                                     <p>
