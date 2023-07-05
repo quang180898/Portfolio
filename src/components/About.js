@@ -104,7 +104,7 @@ export const About = () => {
                                     <h6>Front-end ReactJS Developer</h6>
                                     <label>
                                         Minerva Technology Solutions | On-site |
-                                        Dec 2021 - Mar 2023
+                                        Feb 2021 - Mar 2023
                                     </label>
                                     <div className="rb-time">Full Time</div>
                                     <p>

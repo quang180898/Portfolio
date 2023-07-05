@@ -1,7 +1,7 @@
 import React from "react";
 import avatar from "../images/avatar_cropped.png";
 import { TypeAnimation } from "react-type-animation";
-import CV from "../images/Resume_NguyenDangQuang.pdf"
+import CV from "../images/CV_Nguyen_Dang_Quang_Frontend-Developer.pdf"
 
 export const Home = () => {
     return (
